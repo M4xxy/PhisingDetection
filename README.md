@@ -11,9 +11,16 @@ This application allows you to check if a website is likely phishing by analyzin
 **Requirements:**
 
 * Python
-* Streamlit library 
-* Scikit-learn library 
+* Streamlit library (`pip install streamlit`)
+* Scikit-learn library (`pip install scikit-learn`)
 * Pandas library 
+
+**Instructions:**\
+1. Download this repository
+2. Open Command Prompt on the repository folder
+3. Install required libraries using `pip install -r requirements.txt`
+4. Make sure all requirements are fullfilled
+5. Run the app using `streamlit run main.py`.
 
 **Note:**
 
