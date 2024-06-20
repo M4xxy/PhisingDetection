@@ -13,16 +13,7 @@ This application allows you to check if a website is likely phishing by analyzin
 * Python
 * Streamlit library 
 * Scikit-learn library 
-* Pre-trained phishing website detection models 
 * Pandas library 
-
-**Instructions:**
-
-1. Install required libraries using `pip install -r requirements.txt`.
-2. Replace the placeholder functions (`load_model` and `predict_phishing`) in `main.py` with your actual model loading and prediction logic. 
-    * Ensure your models are saved in a format compatible with scikit-learn.
-    * The `predict_phishing` function should take the URL and a loaded model as input and return a prediction ("Phishing" or "Benign").
-3. Run the app using `streamlit run main.py`.
 
 **Note:**
 
