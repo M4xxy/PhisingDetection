@@ -1,10 +1,7 @@
 python-whois
 pandas
 matplotlib
-seaborn
-requests
 numpy
 scipy
-wordcloud
 scikit-learn
 streamlit
