@@ -1,6 +1,6 @@
 # PhisingDetection
-Machine Learning Project
-This application allows you to check if a website is likely phishing by analyzing its URL. 
+### Machine Learning Project
+#### This application allows you to check if a website is likely phishing by analyzing its URL
 
 **Features:**
 * Enter a website URL.
@@ -15,7 +15,7 @@ This application allows you to check if a website is likely phishing by analyzin
 * Scikit-learn library (`pip install scikit-learn`)
 * Pandas library 
 
-**Instructions:**\
+**Instructions:**
 1. Download this repository
 2. Open Command Prompt on the repository folder
 3. Install required libraries using `pip install -r requirements.txt`
@@ -25,5 +25,4 @@ This application allows you to check if a website is likely phishing by analyzin
 **Note:**
 
 * This is a basic example for educational purposes only. 
-* Train your own phishing detection models on a relevant dataset before deployment in a real-world setting.
 * This app should not be solely relied upon for real-world phishing detection.
